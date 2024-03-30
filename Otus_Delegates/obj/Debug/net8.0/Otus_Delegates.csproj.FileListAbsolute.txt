@@ -1,0 +1,14 @@
+C:\Users\dartw\RiderProjects\Otus_Delegates\Otus_Delegates\obj\Debug\net8.0\Otus_Delegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dartw\RiderProjects\Otus_Delegates\Otus_Delegates\obj\Debug\net8.0\Otus_Delegates.AssemblyInfoInputs.cache
+C:\Users\dartw\RiderProjects\Otus_Delegates\Otus_Delegates\obj\Debug\net8.0\Otus_Delegates.AssemblyInfo.cs
+C:\Users\dartw\RiderProjects\Otus_Delegates\Otus_Delegates\obj\Debug\net8.0\Otus_Delegates.csproj.CoreCompileInputs.cache
+C:\Users\dartw\RiderProjects\Otus_Delegates\Otus_Delegates\bin\Debug\net8.0\Otus_Delegates.exe
+C:\Users\dartw\RiderProjects\Otus_Delegates\Otus_Delegates\bin\Debug\net8.0\Otus_Delegates.deps.json
+C:\Users\dartw\RiderProjects\Otus_Delegates\Otus_Delegates\bin\Debug\net8.0\Otus_Delegates.runtimeconfig.json
+C:\Users\dartw\RiderProjects\Otus_Delegates\Otus_Delegates\bin\Debug\net8.0\Otus_Delegates.dll
+C:\Users\dartw\RiderProjects\Otus_Delegates\Otus_Delegates\bin\Debug\net8.0\Otus_Delegates.pdb
+C:\Users\dartw\RiderProjects\Otus_Delegates\Otus_Delegates\obj\Debug\net8.0\Otus_Delegates.dll
+C:\Users\dartw\RiderProjects\Otus_Delegates\Otus_Delegates\obj\Debug\net8.0\refint\Otus_Delegates.dll
+C:\Users\dartw\RiderProjects\Otus_Delegates\Otus_Delegates\obj\Debug\net8.0\Otus_Delegates.pdb
+C:\Users\dartw\RiderProjects\Otus_Delegates\Otus_Delegates\obj\Debug\net8.0\Otus_Delegates.genruntimeconfig.cache
+C:\Users\dartw\RiderProjects\Otus_Delegates\Otus_Delegates\obj\Debug\net8.0\ref\Otus_Delegates.dll
