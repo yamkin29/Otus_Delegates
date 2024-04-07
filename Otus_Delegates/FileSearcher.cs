@@ -3,15 +3,11 @@
 public class FileSearcher
 {
     public event EventHandler<FileFoundEventArgs>? FileFound;
-
-    private CancellationTokenSource? _cancellationTokenSource;
     
     private bool _searchCancelled = false;
 
     public void SearchFiles(string directory, CancellationToken cancellationToken)
     {
-        _cancellationTokenSource = new CancellationTokenSource();
-
         try
         {
             SearchDirectory(directory, cancellationToken);
@@ -20,10 +16,6 @@ public class FileSearcher
         catch (OperationCanceledException)
         {
             Console.WriteLine("Search cancelled.");
-        }
-        finally
-        {
-            _cancellationTokenSource.Dispose();
         }
     }
 
@@ -75,7 +67,7 @@ public class FileSearcher
     
     public void CancelSearch()
     {
-        _cancellationTokenSource?.Cancel();
+        _searchCancelled = true;
     }
 }
 
